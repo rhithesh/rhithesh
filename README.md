@@ -1,4 +1,4 @@
-### 🚀 Building MOMO
+
 
 ```text
 Rag solved
